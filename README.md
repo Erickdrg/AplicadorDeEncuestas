@@ -10,7 +10,7 @@ Equipo:
   
 
 ![image](https://github.com/user-attachments/assets/6215e01d-efcf-44b3-bdba-d2e7b484690c)
-En esta imagen se muestra el login.
+En esta imagen se muestra el login. "\n"
 
 
 ![image](https://github.com/user-attachments/assets/15682062-659d-4224-9963-2743cf5da2d6)
