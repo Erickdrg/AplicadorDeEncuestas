@@ -12,26 +12,29 @@ Equipo:
 ![image](https://github.com/user-attachments/assets/6215e01d-efcf-44b3-bdba-d2e7b484690c)
 En esta imagen se muestra el login. 
 
-
+<br> </br>
+<br> </br>
 
 
 ![image](https://github.com/user-attachments/assets/15682062-659d-4224-9963-2743cf5da2d6)
 Una vez dentro, podemos observar las encuestas disponibles y la opción de responder.
 
+<br> </br>
+<br> </br>
 
-
-
-![image](https://github.com/user-attachments/assets/3e9a3773-10ff-45a7-ada2-dc5e8b16a605)
+![image](https://github.com/user-attachments/assets/2973ae67-8636-41ce-ac37-4386d58509df)
 Ejemplo de una encuesta que se va a responder.
 
-
+<br> </br>
+<br> </br>
 
 
 ![image](https://github.com/user-attachments/assets/0373ac69-f14f-422f-8028-d4fd01dd2878)
-Una vez respondida la encuesta te manda un mensaje y la opción de volver a donde las encuestas.
+Una vez enviada la respuesta de la encuesta te manda un mensaje y la opción de volver a donde las encuestas.
 
 
-
+<br> </br>
+<br> </br>
 
 ![image](https://github.com/user-attachments/assets/1a9ae57e-82b5-4739-979a-1ebbdb632cb1)
 Las respuestas se guardan en la base de datos.
