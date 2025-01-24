@@ -7,5 +7,27 @@ Equipo:
 - Ramírez González Erick Daniel
 - López Camarillo Daniel
 
+  
+
 ![image](https://github.com/user-attachments/assets/6215e01d-efcf-44b3-bdba-d2e7b484690c)
+En esta imagen se muestra el login.
+
+
+![image](https://github.com/user-attachments/assets/15682062-659d-4224-9963-2743cf5da2d6)
+Una vez dentro, podemos observar las encuestas disponibles y la opción de responder.
+
+
+![image](https://github.com/user-attachments/assets/3e9a3773-10ff-45a7-ada2-dc5e8b16a605)
+Ejemplo de una encuesta que se va a responder.
+
+
+![image](https://github.com/user-attachments/assets/1c26e307-3752-4f53-adf8-4b5b28ee996c)
+
+
+
+
+
+
+
+
 
