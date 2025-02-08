@@ -91,7 +91,7 @@ Oprimimos el botón de responder para ver que en efecto son las preguntas que ag
 <br> </br>
 <br> </br>
 
-| ![Descripción de la imagen 1](https://github.com/user-attachments/assets/16cb9fa6-5393-4ff8-be76-38f47f7f79cd) En esta imagen observamos que la encuesta se guardo correctamente en la base de datos.| ![Descripción de la imagen 2](https://github.com/user-attachments/assets/36837f3d-eb4b-494a-9ae1-bb9f0c8cbd1e) Podemos ver que también las preguntas se guardaron correctamente.|
+| ![Descripción de la imagen 1](https://github.com/user-attachments/assets/16cb9fa6-5393-4ff8-be76-38f47f7f79cd) En esta imagen observamos que la encuesta se guardó correctamente en la base de datos.| ![Descripción de la imagen 2](https://github.com/user-attachments/assets/36837f3d-eb4b-494a-9ae1-bb9f0c8cbd1e) Podemos ver que también las preguntas se guardaron correctamente.|
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 
 
