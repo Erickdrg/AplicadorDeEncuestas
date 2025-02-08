@@ -5,7 +5,7 @@ Para el tercer paricial de la materia Programación Web se realizó un pequeño 
 
 Actualmente como proyecto final se le hicieron algunas modificaciones:
 - Se modifico el archivo "encuestas.php" para que una vez contestada una encuesta se pueda modificar la respuesta, es decir, en la base de datos no se agregue una nueva respuesta.
-- Se le agrego un botón "Crear Nueva Encuesta", al oprimir este boton nos deja agregar una nueva encuesta y se guarda correctamente en la base de datos.
+- Se le agrego un botón "Crear Nueva Encuesta", al oprimir este boton nos deja agregar una nueva encuesta y se guarda correctamente en la base de datos. Para implementar esto se creó un nuevo archivo llamado "crear_encuesta.php".
 
 Equipo:
 - Ramírez González Erick Daniel
